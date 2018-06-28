@@ -1,0 +1,23 @@
+	h1 {
+		font-family: 'Merriweather Sans', sans-serif;
+
+	}
+
+	a {
+		color: #33658A;
+	}
+
+	.navbar-default {
+		background-color: #050517;
+		border-color: #050517;
+		border-radius: 0px;
+	}
+
+	.navbar-default .navbar-brand {
+    color: white;
+    font-family: "Merriweather Sans", sans-serif;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		color: white;
+	}
